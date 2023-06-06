@@ -1,4 +1,4 @@
-#QR code with logo in the center of it and using dots instead of squares
+#V-card QR code with logo in the center of it and using dots instead of squares
 
 import qrcode
 from PIL import Image, ImageDraw
